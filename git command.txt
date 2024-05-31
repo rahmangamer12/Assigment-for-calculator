@@ -1,0 +1,11 @@
+step 1: git software doenload complete
+step no 2: new or exiting folder  cmd  / terminal 
+step3: >git config --global user.name " Rahmantrianer"
+step4:> git config --global user.email "rahmangamer122@gamil.com"
+step:3: >git init
+step: git remote add origin repo:https://github.com/rahmangamer12/Type-Script-Intro-10
+every new changes repeat command
+step4: >git add -A
+step5:>git commit -m "while lopp added" 
+step6: git push origin master
+
